@@ -1,0 +1,20 @@
+Cara Pasang & Tutor Install : https://youtu.be/RYSDbCfTxuc
+────────────────────────────────────
+               Command Termux :
+────────────────────────────────────
+$ termux-setup-storage
+$ apt update && apt upgrade
+$ pkg install nodejs && pkg install git && pkg install ffmpeg && pkg install libwebp && pkg install imagemagick
+$ cd /sdcard
+$ cp -r v3 /$HOME
+$ cd
+$ cd v3
+$ npm install
+$ npm start
+────────────────────────────────────
+Termux Wajib Yang ini :
+https://f-droid.org/en/packages/com.termux/
+────────────────────────────────────
+Mt Manager :
+https://m.apkgit.com/app/mt-manager/bin.mt.plus
+────────────────────────────────────
